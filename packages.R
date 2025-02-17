@@ -1,4 +1,6 @@
 install.packages("tidyverse") 
-install.packages ("lubridate")          
+install.packages ("lubridate")   
+install.packages("bmrs")
 library(tidyverse) 
 library(lubridate)  
+library(bmrs)
